@@ -1,0 +1,1 @@
+console.log("Hello there, your custom script is connected")
